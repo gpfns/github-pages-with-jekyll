@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: TBLR
 ---
 
-I'm glad you are here. I plan to talk about ...
+Tech Blog Learning Repo
